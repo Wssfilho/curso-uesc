@@ -1,4 +1,4 @@
-# Imersão DevOps - Alura Google Cloud
+#Google Cloud
 
 Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e matrículas em uma instituição de ensino.
 
@@ -14,6 +14,7 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
    [Clique aqui para realizar o download](https://github.com/guilhermeonrails/imersao-devops/archive/refs/heads/main.zip)
 
 2. **Crie um ambiente virtual:**
+
    ```sh
    python3 -m venv ./venv
    ```
@@ -29,11 +30,13 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
      ```
 
 4. **Instale as dependências:**
+
    ```sh
    pip install -r requirements.txt
    ```
 
 5. **Execute a aplicação:**
+
    ```sh
    uvicorn app:app --reload
    ```
