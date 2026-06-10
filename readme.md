@@ -79,6 +79,6 @@ https://api-497162597038.northamerica-south1.run.app/docs
 
 New web service
 
-
+cola o git;
 colocar no enviolemte
 PYTHON_VERSION=3.12.10
