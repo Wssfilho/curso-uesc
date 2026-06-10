@@ -74,3 +74,11 @@ https://api-497162597038.northamerica-south1.run.app/docs
 - Para reiniciar o banco, basta apagar o arquivo `escola.db` (isso apagará todos os dados).
 
 ---
+
+## RENDER
+
+New web service
+
+
+colocar no enviolemte
+PYTHON_VERSION=3.12.10
