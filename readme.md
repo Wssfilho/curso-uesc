@@ -48,6 +48,10 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
 
    Aqui você pode testar todos os endpoints da API de forma interativa.
 
+   docker compose up -d
+   docker build -t api .
+   docker run -p 8000:8000
+
 ---
 
 ```sh
